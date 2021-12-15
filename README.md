@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckShe)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckShe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Blog: [https://beckshe.github.io](beckshe.github.io)
+Blog: https://beckshe.github.io (beckshe.github.io)
 
 <!-- 修改github个人首页链接:https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
