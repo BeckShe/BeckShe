@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ### Blog: https://beckshe.github.io 
 
-```js
-<script type="text/javascript" src="//js.users.51.la/21236077.js"></script>
-```
+
+<!-- <script type="text/javascript" src="/js.users.51.la/21236077.js"></script> -->
+
 
 <!-- &theme=cobalt   加个参数即可,更换主题皮肤 -->
 <!-- 修改github个人首页链接:https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
