@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckShe)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckShe&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
-中文自述:学过C#,Java,Python,Scala,Nodejs,C....但是仅是泛泛而已。现明确研究方向----C#,ASP.NET,ASP.NET CORE技术栈。
+中文自述：学过C#,Java,Python,Scala,Nodejs,C....但是仅是泛泛而已。现明确研究方向----C#,ASP.NET,ASP.NET CORE技术栈。
 
 ### Blog: https://beckshe.github.io 
 
