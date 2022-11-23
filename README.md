@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 
 <!-- &theme=cobalt   加个参数即可,更换主题皮肤 -->
 <!-- 修改github个人首页链接:https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BeckShe)](https://github.com/BeckShe/github-readme-activity-graph)
