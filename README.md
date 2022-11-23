@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckShe)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeckShe&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BeckShe)](https://github.com/BeckShe/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BeckShe)](https://github.com/BeckShe/github-readme-activity-graph) -->
+![BeckShe's github activity graph](https://activity-graph.herokuapp.com/graph?username=BeckShe&theme=minimal&custom_title=Frequency&radius=0&hide_border=true)
+
 
 中文自述：学过C#,Java,Python,Scala,Nodejs,C....但是仅是泛泛而已。现明确研究方向----C#,ASP.NET,ASP.NET CORE技术栈。
 
