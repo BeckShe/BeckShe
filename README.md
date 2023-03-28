@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BeckShe)](https://github.com/BeckShe/github-readme-activity-graph) -->
 <!-- ![BeckShe's github activity graph](https://activity-graph.herokuapp.com/graph?username=BeckShe&theme=minimal&custom_title=Frequency&radius=0&hide_border=true) -->
 
-![BeckShe's github activity graph](https://activity-graph.herokuapp.com/graph?username=BeckShe&theme=merko&radius=0&hide_border=true)
-
+![BeckShe's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BeckShe&theme=merko&radius=0&hide_border=true)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ -->
+ 
 中文自述：学过C#,Java,Python,Scala,Nodejs,C....但是仅是泛泛而已。现明确研究方向----C#,ASP.NET,ASP.NET CORE技术栈。
 
 ### Blog: https://beckshe.github.io 
