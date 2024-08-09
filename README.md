@@ -20,65 +20,72 @@ Here are some ideas to get you started:
 <!--  前端  -->
 
 <!-- NodejS -->
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://api.iconify.design/logos:nodejs-icon-alt.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="60px" src="https://api.iconify.design/logos:nodejs-icon-alt.svg"></a>
 <!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://api.iconify.design/devicon:javascript.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="60px"  src="https://api.iconify.design/devicon:javascript.svg"> </a>
 <!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://api.iconify.design/devicon:typescript.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="60px" src="https://api.iconify.design/devicon:typescript.svg"></a>
 <!-- VuejS -->
-<a href="https://vuejs.org/" target="_blank"> <img align="left" alt="vue" height ="42px" src="https://api.iconify.design/devicon:vuejs.svg"></a>
+<a href="https://vuejs.org/" target="_blank"> <img align="left" alt="vue" height ="60px" src="https://api.iconify.design/devicon:vuejs.svg"></a>
 <!-- ReactJS -->
-<!-- <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://api.iconify.design/devicon:react.svg"></a> -->
+<!-- <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="60px" src="https://api.iconify.design/devicon:react.svg"></a> -->
 
 <!--  后端  -->
 
 <!-- Java -->
-<!-- <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://api.iconify.design/devicon:java.svg"></a> -->
+<!-- <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="60px" src="https://api.iconify.design/devicon:java.svg"></a> -->
 <!-- C++ -->
-<!--<a href="https://cplusplus.com/" target="_blank"><img align="left" alt="c++" height ="42px" src="https://api.iconify.design/devicon:cplusplus.svg"></a> -->
+<!--<a href="https://cplusplus.com/" target="_blank"><img align="left" alt="c++" height ="60px" src="https://api.iconify.design/devicon:cplusplus.svg"></a> -->
 <!-- Python -->
-<!-- <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://api.iconify.design/devicon:python.svg"></a> -->
+<!-- <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="60px" src="https://api.iconify.design/devicon:python.svg"></a> -->
 <!-- C# -->
- <a href="https://learn.microsoft.com/zh-cn/dotnet/csharp/" target="_blank"><img align="left" alt="csharp" height ="42px" src="https://api.iconify.design/devicon:csharp.svg"></a> 
+ <a href="https://learn.microsoft.com/zh-cn/dotnet/csharp/" target="_blank"><img align="left" alt="csharp" height ="60px" src="https://api.iconify.design/devicon:csharp.svg"></a> 
  <!-- .NET -->
- <a href="https://dotnet.microsoft.com/zh-cn/" target="_blank"><img align="left" alt="dotnet" height ="42px" src="https://api.iconify.design/devicon:dotnetcore.svg"></a> 
+ <a href="https://dotnet.microsoft.com/zh-cn/" target="_blank"><img align="left" alt="dotnet" height ="60px" src="https://api.iconify.design/devicon:dotnetcore.svg"></a> 
 
 <!--  数据库  -->
  
  <!-- SqlServer -->
- <a href="https://learn.microsoft.com/zh-cn/sql/sql-server/?view=sql-server-ver16" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:microsoftsqlserver.svg" alt="sqlserver" height="42px"/> </a> 
+ <a href="https://learn.microsoft.com/zh-cn/sql/sql-server/?view=sql-server-ver16" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:microsoftsqlserver.svg" alt="sqlserver" height="60px"/> </a> 
 <!-- SqLite -->
-<!-- <a href="https://sqlite.readdevdocs.com/" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:sqlite.svg" alt="sqlite" height="42px"/> </a> -->
+<!-- <a href="https://sqlite.readdevdocs.com/" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:sqlite.svg" alt="sqlite" height="60px"/> </a> -->
 <!-- MYSQL -->
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:mysql.svg" alt="mysql" height="42px"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:mysql.svg" alt="mysql" height="60px"/> </a> 
 <!-- Redis -->
-<a href="https://redis.io/" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:redis.svg" alt="redis" height="42px"/> </a> 
+<a href="https://redis.io/" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:redis.svg" alt="redis" height="60px"/> </a> 
 
 <!-- linux.. -->
 <!-- linux -->
-<!-- <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="linux" height ="42px" src="https://api.iconify.design/devicon:linux.svg"></a> -->
+<!-- <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="linux" height ="60px" src="https://api.iconify.design/devicon:linux.svg"></a> -->
+<!-- ubuntu  -->
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://api.iconify.design/devicon:ubuntu.svg" align="left" alt="ubuntu" height='60px'/> </a>
 <!-- centos -->
-<a href="https://www.centos.org/" target="_blank"> <img align="left" alt="centos" height ="42px" src="https://api.iconify.design/devicon:centos.svg"></a>
+<a href="https://www.centos.org/" target="_blank"> <img align="left" alt="centos" height ="60px" src="https://api.iconify.design/devicon:centos.svg"></a>
 <!-- Docker -->
-<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="docker" height ="42px" src="https://api.iconify.design/devicon:docker.svg"></a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="docker" height ="60px" src="https://api.iconify.design/devicon:docker.svg"></a>
 <!-- Tensorflow -->
-<!-- <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:tensorflow.svg" alt="tensorflow" height="42px"/> </a> -->
+<!-- <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://api.iconify.design/devicon:tensorflow.svg" alt="tensorflow" height="60px"/> </a> -->
 
 <!-- web服务器,服务器..>
 <!-- Nginx -->
-<a href="https://nginx.org/" target="_blank"> <img src="https://api.iconify.design/devicon:nginx.svg" align="left" alt="nginx" height='42px'/> </a>
+<a href="https://nginx.org/" target="_blank"> <img src="https://api.iconify.design/devicon:nginx.svg" align="left" alt="nginx" height='60px'/> </a>
 
 
 <!-- 工具 -->
 
 <!-- Git -->
-<a href="https://git-scm.com/" target="_blank"> <img src="https://api.iconify.design/devicon:git.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://api.iconify.design/devicon:git.svg" align="left" alt="git" height='60px'/> </a>
 <!-- visualstudio  -->
-<a href="https://visualstudio.microsoft.com/zh-hans/vs/" target="_blank"> <img src="https://api.iconify.design/devicon:visualstudio.svg" align="left" alt="visualstudio" height='42px'/> </a>
+<a href="https://visualstudio.microsoft.com/zh-hans/vs/" target="_blank"> <img src="https://api.iconify.design/devicon:visualstudio.svg" align="left" alt="visualstudio" height='60px'/> </a>
 <!-- vscode  -->
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://api.iconify.design/devicon:vscode.svg" align="left" alt="vscode" height='42px'/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://api.iconify.design/devicon:vscode.svg" align="left" alt="vscode" height='60px'/> </a>
+<!-- rabbitmq  -->
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://api.iconify.design/devicon:rabbitmq.svg" align="left" alt="rabbitmq" height='60px'/> </a>
+<!-- jenkins  -->
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://api.iconify.design/devicon:jenkins.svg" align="left" alt="jenkins" height='60px'/> </a>
+
 <!-- Figma -->
-<!-- <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/devicon:figma.svg" alt="figma" height='42px'/> </a> -->
+<!-- <a href="https://www.figma.com/" target="_blank"> <img src="https://api.iconify.design/devicon:figma.svg" alt="figma" height='60px'/> </a> -->
 
 
 <br/><br/><br/><br/><br/>
