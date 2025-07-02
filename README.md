@@ -1,3 +1,5 @@
+<!-- 1. github主页欢迎，以及个人情况简略介绍 -->
+
 ### Hi there 👋
 
 <!-- 
@@ -15,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 <br/>
+
+<!-- 2. 技能点和使用工具 -->
 
 ### 🔨 Languages and Tools: 
 <!--  前端  -->
@@ -91,6 +95,7 @@ Here are some ideas to get you started:
 <br/><br/><br/><br/><br/>
 <!-- <hr/> -->
 
+<!-- 3. Github上的提交记录统计、平台活跃记录统计和个人所有仓库中使用的各类编程语言的统计 -->
 
 ### 📊 Github Stats
 
@@ -102,10 +107,53 @@ Here are some ideas to get you started:
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BeckShe)](https://github.com/BeckShe/github-readme-activity-graph) -->
 <!-- ![BeckShe's github activity graph](https://activity-graph.herokuapp.com/graph?username=BeckShe&theme=minimal&custom_title=Frequency&radius=0&hide_border=true) -->
 
-<!-- ![BeckShe's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BeckShe&theme=merko&radius=0&hide_border=true) -->
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
- -->
+![BeckShe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BeckShe&theme=merko&radius=0&hide_border=true) 
+
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)     
+-->
  
+
+
+<!-- 贡献网格蛇 -->
+
+<!--
+
+### Contribution Grid Snake 🐍:
+[![github-contribution-grid-snake](https://github.com/beckshe/beckshe/blob/main/github-contribution-grid-snake.svg)](https://beckshe.github.io/TechBlog/)
+
+-->
+ 
+ 
+
+
+
+
+
+
+<!-- 4. 主页访客统计 -->
+
+
+### Visitor Statistics
+![Profile Views](https://komarev.com/ghpvc/?username=beckshe&color=red)
+![Visitor Dadge](https://visitor-badge.laobi.icu/badge?page_id=beckshe.visitor-badge&right_color=red&left_text=Visitors)
+<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=beckshe.visitor-badge)  !-->
+
+<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=beckshe.visitor-badge&left_color=red&right_color=green&left_text=ProfileViews)   -->
+
+
+<!--
+- 总访问量: **null** 次
+- 唯一访客: **null** 人
+-->
+
+
+<br/>
+
+
+<!-- 5.总结，或者对未来的期待，或者还想说点什么...  -->
+
+
 <!-- 中文自述：学过C#,Java,Python,Scala,Nodejs,C....但是仅是泛泛而已。现明确研究方向----C#,ASP.NET,ASP.NET CORE技术栈。 -->
 
 <!-- ### Blog: https://beckshe.github.io -->
@@ -117,5 +165,3 @@ Continuous learning...
 
 <!-- &theme=cobalt   加个参数即可,更换主题皮肤 -->
 <!-- 修改github个人首页链接:https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
-
-
